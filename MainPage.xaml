@@ -9,15 +9,6 @@
             Spacing="25"
             Padding="30,0"
             VerticalOptions="Center">
-
-            <skia:SKLottieView
-                Source="global_Lottie_Json.json"
-                RepeatMode="Restart"
-                SemanticProperties.Description="Login Page"
-                HeightRequest="200"
-                WidthRequest="200"
-                HorizontalOptions="Center"/>
-
             <Label
                 Text="Hello, World!"
                 SemanticProperties.HeadingLevel="Level1"
